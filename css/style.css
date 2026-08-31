@@ -281,7 +281,7 @@ footer{
 }
 /* ---------- Responsive ---------- */
 
-@media (max-width:800px){
+@media (max-width:600px){
 
 
     .post-card {
@@ -470,10 +470,13 @@ a.category:hover p{
     width: 150px;
     height: auto;
     display: block;
+
 }
 
 .post-card h3 {
     margin: 0 0 10px;
+
+
 }
 
 .post-card h3 a {
