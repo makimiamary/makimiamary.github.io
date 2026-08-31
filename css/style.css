@@ -290,8 +290,15 @@ footer{
     }
 
     .post-card > a img {
-        width: 100px;
-        min-width: 100px;
+
+  height: 80px;
+  min-width: 80px;
+  max-width: 80px;
+  flex-shrink: 0;
+
+
+        width: 80px;
+        min-width: 80px;
     }
 }
 
