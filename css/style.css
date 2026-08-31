@@ -442,6 +442,7 @@ a.category:hover p{
 
     max-width: 700px;
     box-sizing: border-box;
+ min-width: 0;
 
 }
 
