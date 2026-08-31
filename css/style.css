@@ -283,6 +283,19 @@ footer{
 
 @media (max-width:800px){
 
+
+    .post-card {
+        padding: 10px;
+        gap: 12px;
+    }
+
+    .post-card > a img {
+        width: 100px;
+        min-width: 100px;
+    }
+}
+
+
 .container{
     display:block;
 }
