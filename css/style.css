@@ -284,11 +284,6 @@ footer{
 @media (max-width:600px){
 
 
-    .post-card {
-        padding: 10px;
-        gap: 12px;
-    }
-
     .post-card > a img {
 
   height: 80px;
@@ -300,7 +295,6 @@ footer{
         width: 80px;
         min-width: 80px;
     }
-}
 
 
 .container{
